@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349022259643",
+    "firebase_url": "https://fluttercomplexfirestoreapp.firebaseio.com",
+    "project_id": "fluttercomplexfirestoreapp",
+    "storage_bucket": "fluttercomplexfirestoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349022259643:android:05a2b6783ccca77c945c9e",
+        "android_client_info": {
+          "package_name": "com.example.firestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349022259643-2638n619l5587m9a9tckj0hct4sist1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyEX2aUQfP75X6glSRf6iEwGqLokhWD7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349022259643-2638n619l5587m9a9tckj0hct4sist1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

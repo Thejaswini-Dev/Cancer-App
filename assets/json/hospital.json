@@ -1,0 +1,44 @@
+[
+    {
+        "markerId": "1",
+        "positionLat": "12.954893",
+        "positionLng": "77.571468",
+        "title": "Sri Shankara Cancer Foundation",
+        "address": "1st Cross, Shankara Matt Premises, Shankarapuram, Basavanagudi, Bengaluru, Karnataka 560004"
+    },
+    {
+        "markerId": "2",
+        "positionLat": "12.9629333",
+        "positionLng": "77.4560852",
+        "title": "Kidwai Memorial Institute of Oncology",
+        "address": "Dr M H, Marigowda Rd, Near, Bengaluru, Karnataka 560029",
+        "phoneNumber": "080 2656 0703"
+    },
+    {
+        "markerId": "3",
+        "positionLat":" 13.1163463",
+        "positionLng": "77.6034978",
+        "title": "Cytecare Cancer Hospitals Bangalore",
+        "address": "Near, Venkatala, Bagalur Cross, Yelahanka, Bengaluru, Karnataka 560064",
+        "phoneNumber": "080 2217 6767"
+    },
+    {
+        "markerId": "4",
+        "positionLat":" 12.9598158",
+        "positionLng": "77.5857157",
+        "title": "HCG Cancer Hospital",
+        "address": "Near, Venkatala, Bagalur Cross, Yelahanka, Bengaluru, Karnataka 560064",
+        "phoneNumber": "080 2217 6767"
+    },
+    {
+        "markerId": "5",
+        "positionLat":"12.9719109",
+        "positionLng": "77.5858944",
+        "title": "Cancer Hospital",
+        "address": "Near, Venkatala, Bagalur Cross, Yelahanka, Bengaluru, Karnataka 560064",
+        "phoneNumber": "080 2217 6767"
+    }
+
+
+    
+]
